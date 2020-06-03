@@ -1,2 +1,2 @@
-# WEC
-The official ship wiki
+## Woof Engineering Corp
+The official WEC Database
